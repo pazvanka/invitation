@@ -1,16 +1,32 @@
 @font-face {
-    font-family: Dhestora;
-    src:url(Dhestora.ttf);
+    font-family: Brittany;
+    src:url(brittany/BrittanySignature.ttf);
 }
 @font-face {
-    font-family: Rastyin;
-    src:url(Rastyin-qZ0aV.ttf);
+    font-family: Niramit;
+    src:url(niramit/Niramit-Regular.ttf);
 }
 @font-face {
-    font-family: Ronallatie;
-    src:url(Ronallatie.ttf);
+    font-family: Niramit-Light;
+    src:url(niramit/Niramit-Light.ttf);
 }
 @font-face {
-    font-family: TanyaHati;
-    src:url(TanyaHati-w1Adn.ttf);
+    font-family: Niramit-ExtraLight;
+    src:url(niramit/Niramit-ExtraLight.ttf);
+}
+@font-face {
+    font-family: Niramit-SemiBold;
+    src:url(niramit/Niramit-SemiBold.ttf);
+}
+@font-face {
+    font-family: Niramit-Medium;
+    src:url(niramit/Niramit-Medium.ttf);
+}
+@font-face {
+    font-family: Niramit-Bold;
+    src:url(niramit/Niramit-Bold.ttf);
+}
+@font-face {
+    font-family: Seasons;
+    src:url(seasons/The Seasons Regular.ttf);
 }
