@@ -30,3 +30,23 @@
     font-family: Seasons;
     src:url(seasons/The Seasons Regular.ttf);
 }
+@font-face {
+    font-family: Seasons-Light;
+    src:url(seasons/The Seasons Light.ttf);
+}
+@font-face {
+    font-family: Seasons-Light-Italic;
+    src:url(seasons/The Seasons Light Italic.ttf);
+}
+@font-face {
+    font-family: Seasons-Italic;
+    src:url(seasons/The Seasons Italic.ttf);
+}
+@font-face {
+    font-family: Seasons-Bold;
+    src:url(seasons/The Seasons Bold.ttf);
+}
+@font-face {
+    font-family: Seasons-Bold-Italic;
+    src:url(seasons/The Seasons Bold Italic.ttf);
+}
